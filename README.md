@@ -1,4 +1,16 @@
 # flutterTest # flutterTest# flutterTest# flutterTest# f
-GREerTest # flutt# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
-        const accountNumber = data.profiles[i].account_number;
+                    await openedPaCwaitForSelector(selector
+                    await page4.click(meelector
+                    await page4.waiorNetworkIdle(l;
+                    await page4.click(elementSeIdl;
+                    await page4.waitForSelector(elementSelector4);
+                    await openedPaCwaitForSelector(selector
+                    await page4.click(meelector
+                    await page4.waiorNetworkIdle(l;
+                    await page4.click(elementSeIdl;
+                    await page4.waitForSelector(elementSelector4);
+                    await openedPaCwaitForSelector(selector
+                    await page4.click(meelector
+                    await page4.waiorNetworkIdle(l;
+                    await page4.click(elementSeIdl;
+                    await page4.waitForSelector(elementSelector4);
