@@ -8,11 +8,6 @@
                     await page4.click(elementSeIdl;
                     await page4.waitForSelector(elementSelector4);
     headers
-count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_numb
-  const MyHomePage({
-  @overr
-  State<MyHomePage> createState() => _MyHomePageState();
 }
 
 class _MyHomePageState extends State<MyHomePage> {
